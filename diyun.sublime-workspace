@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setti",
+				"settings	(php.ini)"
+			],
+			[
+				"0",
+				"0px"
+			],
+			[
+				"bcolor",
+				"background-color"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"widgets"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"Pro",
+				"ProductB"
+			],
+			[
+				"ab",
+				"abstract"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"IP",
+				"IPict1"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"a",
+				"array2"
+			],
+			[
+				"ri",
+				"rightPos"
+			],
+			[
+				"l",
+				"leftPos"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fet",
+				"fetch_fun"
+			],
+			[
+				"fe",
+				"fetch_funs"
+			],
+			[
+				"f",
+				"fetch_fun"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ins",
+				"instance"
+			],
+			[
+				"dated",
+				"date_default_timezone_set"
+			],
+			[
+				"c",
+				"current_link"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"A",
+				"abbreviations"
+			],
+			[
+				"bod",
+				"body_element"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ar",
+				"argument"
+			],
+			[
+				"authen",
+				"authenticate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			],
+			[
+				"xdrl",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"x",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"sw",
+				"Xdebug: Set Watch Expression"
+			],
+			[
+				"xdebug:",
+				"Xdebug: Restart Session"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"SSPHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"packge li",
+				"Package Control: List Packages"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/b5m/Desktop/diyun",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP"
+	],
+	"file_history":
+	[
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/LICENSE",
+		"/C/Users/b5m/Desktop/SSLspeedy4InstallOnly/SSLspeedy4InstallOnly/main.css",
+		"/C/Users/b5m/Desktop/八爪鱼采集器V6.0.1版安装包/安装前必读.txt",
+		"/C/Users/b5m/Desktop/note.txt",
+		"/C/Users/b5m/Desktop/diyun/Application/Home/Controller/IndexController.class.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/Library/Think/App.class.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/Library/Think/Controller.class.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/Library/Think/Hook.class.php",
+		"/C/Users/b5m/Desktop/diyun/index.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/ThinkPHP.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/Library/Think/Think.class.php",
+		"/C/Users/b5m/Desktop/diyun/ThinkPHP/Library/Think/Log.class.php",
+		"/E/xampp/php/php.ini",
+		"/C/Users/b5m/Desktop/diyun/test.php",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/C/Users/b5m/Desktop/diyun/demo.js",
+		"/C/Users/b5m/Desktop/diyun/diyun.sublime-project",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/b5m/Documents/QQEIM Files/2850217272/FileRecv/b5m_haitaonewsStage15.sql",
+		"/C/Users/b5m/Desktop/新建文本文档.txt",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/b5m/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/b5m/Desktop/b5m_haitaonews(1)_xiaowang.sql",
+		"/C/Users/b5m/Desktop/b5m_haitaonews.sql",
+		"/C/Users/b5m/Desktop/gitlab账号密码.txt",
+		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/b5m/Desktop/diyun/this.php",
+		"/C/Users/b5m/Desktop/diyun/1.html",
+		"/C/Users/b5m/Desktop/diyun/test.txt",
+		"/C/Users/b5m/Desktop/diyun/1.php",
+		"/C/Users/b5m/Desktop/diyun/1.pghp",
+		"/D/火车采集器V9/Data/3/WebPostError.txt",
+		"/C/Users/b5m/Desktop/向导Url列表学习demo.html",
+		"/C/Users/b5m/Desktop/向导列表详情学习demo.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/b5m/Desktop/hosts.lnk",
+		"/E/dirk/bwm-hgc-page-project/components/B5mTool.php",
+		"/C/Users/b5m/Desktop/image-slider.slider.jquery/with-jquery.html",
+		"/C/Users/b5m/Desktop/image-slider.slider.jquery/js/jquery-1.11.3.min.js",
+		"/C/Users/b5m/Desktop/image-slider.slider.jquery/js/jssor.slider.debug.js",
+		"/C/Users/b5m/Desktop/image-slider.slider.jquery/js/jssor.slider.mini.js",
+		"/E/dirk/bwm-detail-page-project/views/default/main/v4/goods_ttj_by_hanguocheng.php",
+		"/C/Users/b5m/Desktop/diyun/shoppingCart.php",
+		"/C/Users/b5m/Desktop/diyun/search_refer.php",
+		"/C/Users/b5m/Desktop/diyun/2.php",
+		"/C/Users/b5m/Desktop/diyun/post_output.php",
+		"/C/Users/b5m/Desktop/diyun/demo.php",
+		"/D/demo/browser/webstore/browser.putao.com/kerisy/application/modules/Core/Controller/Api/ApiController.php",
+		"/D/demo/browser/webstore/browser.putao.com/kerisy/application/modules/Core/Services/Api/ApiService.php",
+		"/D/demo/browser/webstore/browser.putao.com/kerisy/application/modules/Core/Services/ConfigService.php",
+		"/C/Users/b5m/Desktop/diyun/3.html",
+		"/C/Users/b5m/Desktop/diyun/2.html",
+		"/C/Users/b5m/Documents/Tencent Files/2196499074/FileRecv/省市联动.php",
+		"/C/Users/b5m/Desktop/diyun/4.html",
+		"/C/Users/b5m/Documents/QQEIM Files/2850217272/FileRecv/git命令例子.txt",
+		"/C/Users/b5m/Desktop/demo/demo/index.html",
+		"/C/Users/b5m/Desktop/demo/demo/style.css",
+		"/C/Users/b5m/Desktop/demo/demo/index.js",
+		"/E/dirk/bwm-hgc-page-project/views/list/list.php",
+		"/E/dirk/bwm-hgc-page-project/views/common/pages.php",
+		"/E/dirk/bwm-home-project/components/widgets/views/user-summary/index.php",
+		"/E/dirk/bwm-hgc-page-project/views/list/partial/filter.php",
+		"/C/Users/b5m/Desktop/VIP升级日志.txt",
+		"/C/Users/b5m/Documents/QQEIM Files/2850217272/FileRecv/ucenter_top.ejs",
+		"/C/Users/b5m/Documents/QQEIM Files/2850217272/FileRecv/ucenter_top(1).ejs",
+		"/C/Users/b5m/Desktop/diyun/requirements.php",
+		"/D/BaiduYunDownload/browser/webstore/browser.putao.com/kerisy/application/modules/Core/Services/Api/ApiService.php",
+		"/D/BaiduYunDownload/browser/webstore/browser.putao.com/kerisy/application/modules/Core/Controller/Api/ApiController.php",
+		"/D/BaiduYunDownload/browser/webstore/browser.putao.com/bin/nginx/ldev.browser.putao.com",
+		"/D/BaiduYunDownload/Appstore(1).sql",
+		"/D/BaiduYunDownload/browser/webstore/browser.putao.com/kerisy/application/config/routes.php",
+		"/D/BaiduYunDownload/browser/webstore/sql/2016_01_20_11_08_02_user_record_create.sql",
+		"/D/BaiduYunDownload/Browser.sql",
+		"/D/BaiduYunDownload/Appstore.sql",
+		"/D/BaiduYunDownload/appstore/webstore/appstore.putao.com/laravel/app/Jobs/Job.php",
+		"//172.16.0.160/Product/新建文本文档.txt",
+		"/F/123/08JS高级/12-js高级4/例题/20-图片无缝滚动.html",
+		"//172.16.0.160/public/VIP/海淘VIP规则/新老VIP转化/VIP升级日志.txt",
+		"//172.16.0.160/public/VIP/海淘VIP规则/新老VIP转化/VIP升级规则文案.txt",
+		"/F/123/04项目周边/20-PHP核心编程9.17/例题/ecshop/api/goods.php",
+		"/F/123/04项目周边/20-PHP核心编程9.17/例题/ecshop/comment.php",
+		"/E/jet/1.php",
+		"/C/Users/b5m/Documents/QQEIM Files/2850217272/FileRecv/up_vip.ejs",
+		"/E/jet/1.html",
+		"/F/123/01PHP/7-PHP核心编程/例题/31-url编码.php",
+		"/F/123/01PHP/7-PHP核心编程/例题/30-htmlspecialchars.php",
+		"/D/Program Files (x86)/JetBrains/PhpStorm 10.0/bin/PhpStorm64.exe.vmoptions",
+		"/F/123/10Jquery/18-jQuery3/例题/1-绑定事件.html",
+		"/F/123/09AJAX/14-ajax1/例题/6-demo.php",
+		"/E/jet/2.php",
+		"/E/jet/test.txt",
+		"/F/123/09AJAX/14-ajax1/例题/3-demo.php",
+		"/F/123/09AJAX/14-ajax1/例题/4-demo.php",
+		"/F/123/09AJAX/14-ajax1/例题/2-demo.php",
+		"/E/dirk/bwm-detail-page-project/components/ZMain.php",
+		"/E/dirk/bwm-detail-page-project/controllers/HistoryController.php",
+		"/F/项目/1120/项目代码/sql.sql",
+		"/F/123/02MySQL/11-MySQL数据库巩固与加强4/data.sql",
+		"/E/xampp/apache/conf/httpd.conf",
+		"/F/123/12大型网站核心技术/1113/sql.sql",
+		"/F/123/02MySQL/10-MySQL数据库巩固与加强3/MySQL测试数据.txt",
+		"/C/Users/b5m/AppData/Local/Temp/Rar$DIa0.250/all2.sql",
+		"/E/xampp/mysql/bin/my.ini",
+		"/E/xampp/mysql/my-medium.ini",
+		"/E/xampp/mysql/data/data/db.opt",
+		"/E/xampp/mysql/data/jokeDB/db.opt",
+		"/E/xampp/mysql/my-small.ini",
+		"/C/Users/b5m/Desktop/diyun/controllers/PostController.php",
+		"/C/Users/b5m/Desktop/diyun/controllers/SiteController.php",
+		"/C/Users/b5m/Desktop/diyun/config/console.php",
+		"/C/Users/b5m/Desktop/diyun/web/index.php",
+		"/C/Users/b5m/Desktop/diyun/models/Country.php",
+		"/C/Users/b5m/Desktop/diyun/views/country/index.php",
+		"/C/Users/b5m/Desktop/diyun/controllers/CountryController.php",
+		"/C/Users/b5m/Desktop/diyun/views/site/entry-confirm.php",
+		"/C/Users/b5m/Desktop/diyun/views/site/entry.php",
+		"/C/Users/b5m/Desktop/diyun/models/EntryForm.php",
+		"/C/Users/b5m/Desktop/diyun/views/site/say.php",
+		"/C/Users/b5m/Desktop/diyun/controllers/HelloController.php",
+		"/C/Users/b5m/Desktop/diyun/config/web.php",
+		"/C/Users/b5m/Desktop/diyun/vendor/yiisoft/yii2/web/Request.php",
+		"/C/Users/b5m/Desktop/diyun/config/db.php",
+		"/E/xampp/php/logs/php_error_log",
+		"/C/Users/b5m/Desktop/diyun/1.js",
+		"/C/Users/b5m/Desktop/diyun/reg.php",
+		"/F/123/12大型网站核心技术/1117/代码/mem6.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"E:\\jet\\blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prompt",
+			"crtl",
+			"\\",
+			"post_max_size",
+			"0",
+			"\\",
+			"帮韩品",
+			"\\",
+			"rewrite",
+			"rewrite_module",
+			"revenue-infor",
+			"datadir",
+			"default",
+			"error_log",
+			"Error",
+			"error_level",
+			"error_level_con",
+			"error_level_c",
+			"error",
+			"172.16.111.11",
+			"stage",
+			"memc",
+			"mem",
+			"memcache",
+			"bwm",
+			"\\",
+			"localhost",
+			"zend_extension",
+			"$sor",
+			"$sort",
+			"sort",
+			"$params",
+			"korea-bg",
+			"s.b5m",
+			"ini",
+			"th",
+			"\\",
+			"next",
+			"blue",
+			"grey",
+			"displayCitations",
+			"adddLoadEvent",
+			"addLoadEvent",
+			"array",
+			"try",
+			"getHTTPObject",
+			"scripts",
+			"></",
+			"placeholder",
+			"childNodes",
+			"\\",
+			"session.gc_pro",
+			"session.cookie_lifetime",
+			"city",
+			"var_dump",
+			");",
+			"dayPictureUrl",
+			"zhenyu.png",
+			");\n",
+			"ControllerId",
+			"default",
+			"memcache",
+			"extension",
+			"mem",
+			"memcache",
+			"search",
+			"\\",
+			"modules",
+			"dirk",
+			"curl_version_SSL",
+			"localhost",
+			"\\",
+			"extension=",
+			"extension+",
+			"extension",
+			"com",
+			"Virtual ho",
+			"PHPIniDir",
+			"LoadMo",
+			"Loadmo",
+			"phpDll",
+			"extension"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"帮海贝",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"output.xdebug":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "diyun.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"think",
+				"ThinkPHP\\ThinkPHP.php"
+			],
+			[
+				"comment",
+				"protected\\components\\apis\\Comment.php"
+			],
+			[
+				"",
+				"diyun.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\dirk\\bwm-haitaonews-project\\haitaonews.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"48":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"50":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
